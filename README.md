@@ -15,8 +15,8 @@ Ini adalah repository belajar github dari kelas PAB1 IF3A
 Gunakan perintah ``dart install`` pada command prompt atau cmd untuk menginstall library
 
 ## Contoh Perulangan pada Dart
-'''dart
+```dart
 for (i=0; i<=10; i++) {
     print("Nomor $i);
 }
-'''
+```
